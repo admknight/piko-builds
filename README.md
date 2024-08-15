@@ -1,3 +1,7 @@
+## Notice
+
+New Apk builds have moved to [this repository](https://github.com/crimera/twitter-apk), please use that instead.
+
 Apk builds of [crimera/piko](https://github.com/crimera/piko) patches
 
 # Credits
